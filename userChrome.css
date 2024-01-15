@@ -1,5 +1,6 @@
+
 :root {
-	--uc-urlbar-bg-color: #1a1b26;
+	--uc-urlbar-bg-color: #2d2424;
 	--uc-show-new-tab-button: none;
 	--uc-show-tab-separators: none;
 	--uc-tab-separators-color: none;
@@ -7,7 +8,7 @@
 }
 #titlebar {
 	-moz-box-ordinal-group: 2 !important;
-}
+}	
 .titlebar-buttonbox-container {
 	display: none !important;
 }
@@ -78,11 +79,11 @@
 	margin-left: 4vw !important;
 }
 
-#unified-extensions-button {
+/* #unified-extensions-button {
 	width: 0.1px;
-	padding-inline: 0 !important
+	padding-inline: 0 !important 
 }
-
+*/
 #unified-extensions-button > .toolbarbutton-icon {
 	width: 0 !important
 }
