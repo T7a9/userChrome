@@ -1,6 +1,6 @@
 
 :root {
-	--uc-urlbar-bg-color: #2d2424;
+	--uc-urlbar-bg-color: #2d2424; /* change this value to your liking */
 	--uc-show-new-tab-button: none;
 	--uc-show-tab-separators: none;
 	--uc-tab-separators-color: none;
@@ -78,7 +78,7 @@
 #urlbar-container {
 	margin-left: 4vw !important;
 }
-
+/* disables almost invisible extensions button */
 /* #unified-extensions-button {
 	width: 0.1px;
 	padding-inline: 0 !important 
