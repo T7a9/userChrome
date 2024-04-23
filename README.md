@@ -1,5 +1,5 @@
 # userChrome.css
-rens' userChrome.css for firefox-based browsers, with [biscuit](https://github.com/Biscuit-Colorscheme/) colorscheme
+rens' userChrome.css for firefox-based browsers, with ~~[biscuit](https://github.com/Biscuit-Colorscheme/)~~ whatever colorscheme you want
 
 ## Installation:
 - Go to about:config and turn "toolkit.legacyUserProfileCustomizations.stylesheets" to true
